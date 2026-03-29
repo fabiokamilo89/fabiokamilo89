@@ -18,8 +18,8 @@ Sou o Fábio, e estou construindo projetos para unir tecnologia, criatividade e 
 ## 📊 Como está meu GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiokamilo89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokamilo89&layout=compact&langs_count=5&theme=dracula" width="48%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabiokamilo89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokamilo89&layout=compact&langs_count=5&theme=dracula" />
 </div>
 
 ---
